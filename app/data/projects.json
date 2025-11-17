@@ -1,0 +1,93 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Course Resource Library",
+      "description": "Full-stack e-learning and digital library system with secure authentication, role-based access (admins & students), course and quiz management, and automated certificate generation using a three-tier REST architecture.",
+      "details": [
+        "Built secure JWT authentication and RBAC from scratch.",
+        "Developed course and quiz creation, editing, and assignment logic.",
+        "Integrated automated certificate generation using dynamic templates.",
+        "Implemented scalable REST API architecture with Express and MongoDB.",
+        "Designed a modern, responsive React UI for students and admins."
+      ],
+      "githubUrl": "https://github.com/pranaveshkp/Course_Resource_Library",
+      "image": "/1.png",
+      "tags": [
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "JWT",
+        "RBAC"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Face Recognition App using Clarifai API",
+      "description": "Real-time face detection tool using Clarifai API, achieving <1-second latency per image. Implemented secure JWT-based authentication and persisted 1,000+ search records with a responsive React frontend and Node/Express backend deployed on Heroku.",
+      "details": [
+        "Integrated Clarifai API for real-time face detection.",
+        "Built user authentication with JWT and secure sessions.",
+        "Stored over 1,000+ search history logs in MongoDB.",
+        "Deployed the system on Heroku with a full CI/CD pipeline.",
+        "Implemented a responsive React UI with real-time detection feedback."
+      ],
+      "githubUrl": "https://github.com/pranaveshkp/Face-Recognition-app",
+      "image": "/2.png",
+      "tags": [
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Clarifai API",
+        "JWT",
+        "Heroku"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Early Proactive Warning Systems (SDN)",
+      "description": "Deep learning model to detect unknown cyberattacks in network traffic, improving detection accuracy by 20% over traditional methods and achieving 94% classification accuracy on the NSL-KDD dataset using CNN and Linear Regression.",
+      "details": [
+        "Built a CNN architecture to detect unknown cyberattacks.",
+        "Achieved 94% accuracy on the NSL-KDD dataset.",
+        "Outperformed traditional ML models by 20% improvement.",
+        "Used hybrid CNN + Linear Regression for higher precision.",
+        "Performed extensive data preprocessing using Pandas & NumPy."
+      ],
+      "githubUrl": "https://github.com/pranaveshkp/Proactive-warning-systems",
+      "image": "/3.png",
+      "tags": [
+        "Python",
+        "TensorFlow/Keras",
+        "scikit-learn",
+        "Pandas",
+        "NumPy",
+        "Matplotlib"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Disease Prediction using Machine Learning",
+      "description": "Machine learning app with 95% accuracy using NB, DT, RF, and KNN models with a GUI built using Tkinter.",
+      "details": [
+        "Implemented 4 ML algorithms: NB, Decision Trees, Random Forest, KNN.",
+        "Designed and built a user-friendly Tkinter GUI for predictions.",
+        "Achieved 95% accuracy across multiple diseases.",
+        "Used Matplotlib for visualizing prediction patterns.",
+        "Processed structured and unstructured data using Pandas & NumPy."
+      ],
+      "githubUrl": "https://github.com/pranaveshkp",
+      "image": "/4.png",
+      "tags": [
+        "Python",
+        "scikit-learn",
+        "Pandas",
+        "NumPy",
+        "Tkinter",
+        "Matplotlib"
+      ]
+    }
+  ]
+}

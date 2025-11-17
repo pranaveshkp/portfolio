@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "name": "Languages",
+      "skills": [
+        { "name": "Python", "level": 95 },
+        { "name": "Java", "level": 85 },
+        { "name": "C / C++", "level": 80 },
+        { "name": "HTML & CSS", "level": 85 }
+      ]
+    },
+    {
+      "name": "AI / ML / GenAI",
+      "skills": [
+        { "name": "TensorFlow", "level": 90 },
+        { "name": "PyTorch", "level": 80 },
+        { "name": "LangChain / LangGraph", "level": 85 },
+        { "name": "Hugging Face & NLTK", "level": 80 }
+      ]
+    },
+    {
+      "name": "Frameworks & Tools",
+      "skills": [
+        { "name": "React.js", "level": 85 },
+        { "name": "Node.js / Express", "level": 80 },
+        { "name": "Docker & Kubernetes", "level": 75 },
+        { "name": "AWS Bedrock / SageMaker", "level": 70 }
+      ]
+    },
+    {
+      "name": "Databases",
+      "skills": [
+        { "name": "MySQL", "level": 80 },
+        { "name": "PostgreSQL", "level": 75 },
+        { "name": "NoSQL", "level": 80 },
+        { "name": "Pinecone", "level": 70 }
+      ]
+    }
+  ]
+}
